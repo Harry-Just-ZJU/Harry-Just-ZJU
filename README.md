@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 - 🤩I am Harry Just from Zhejiang University international campus. (based Haining, Zhejiang, China)
 - 🖥I am currently a 2nd-year undergraduate student and major in bioinformatics.
+- ✍I am currently learning Unix, R, Python and Java.
+- 👀I am looking for friends communicating and discussing about programming and collaborators, whatever major, math, CS, BMI, etc.
+- 📫 How to reach me: hanyangmao06@gmail.com
 
